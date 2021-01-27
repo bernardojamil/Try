@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+a {
+  color: #11999E;
+  font-size: 1.5rem;
+}
+
+button {
+  background-color: #66BFBF;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5rem;
+  font-family: 'Vollkorn', serif;
+  line-height: 2;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+h2 {
+  font-family: 'Vollkorn', serif;
+  font-size: 3rem;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+}
+
+hr {
+  border: none;
+  border-top: 20px dotted;
+  margin: 100px auto;
+  width: 10%;
+  clear: both;
+}
+
+p {
+  margin: 0 auto;
+  font-family: 'Cabin', sans-serif;
+  font-size: 1.5rem;
+}
+
+/* TOP CONTAINTER */
+.top {
+  background-color: #EAF6F6;
+  position: relative;
+}
+
+/* TOP images */
+.cloud1 {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 200px;
+  bottom: 200px;
+}
+
+.photome {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 50px;
+}
+
+/* MIDDLE CONTAINER  */
+.middle {
+padding-top: 50px;
+}
+
+.skillimage1 {
+  border-radius: 50%;
+  float: left;
+  margin-right: 50px;
+  width: 25%;
+  margin-bottom: 50px;
+}
+
+.skillimage2 {
+  border-radius: 50%;
+  float: right;
+  margin-left: 50px;
+  width: 25%;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+/* BOTTOM Container */
+.bottom {
+  background-color: #66BFBF;
+  margin-top: 20px;
+}
+
+.footer-link {
+  font-size: 1.5rem;
+  margin: 0 50px;
+  line-height: 5;
+}
